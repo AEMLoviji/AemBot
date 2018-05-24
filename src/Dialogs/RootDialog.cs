@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 
-namespace BotApplication1.Dialogs
+namespace AemBot.Dialogs
 {
     [Serializable]
     public class RootDialog : IDialog<object>

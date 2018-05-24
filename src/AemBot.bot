@@ -1,5 +1,5 @@
 {
-  "name": "BotApplication1",
+  "name": "aembot",
   "secretKey": "",
   "services": [
     {
@@ -8,7 +8,7 @@
       "type": "endpoint",
       "appPassword": "",
       "endpoint": "http://localhost:3978/api/messages",
-      "name": "BotApplication1"
+      "name": "aembot"
     }
   ]
 }

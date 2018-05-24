@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace BotApplication1
+namespace AemBot
 {
     public static class WebApiConfig
     {
