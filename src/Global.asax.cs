@@ -7,7 +7,7 @@ using Microsoft.Bot.Connector;
 using System.Reflection;
 using AemBot;
 
-namespace BotApplication1
+namespace AemBot
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
