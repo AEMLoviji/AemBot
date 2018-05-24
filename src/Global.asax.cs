@@ -5,6 +5,7 @@ using Microsoft.Bot.Builder.Dialogs.Internals;
 using Autofac;
 using Microsoft.Bot.Connector;
 using System.Reflection;
+using AemBot;
 
 namespace BotApplication1
 {
